@@ -1482,7 +1482,7 @@
               "name": "lightbulb",
               "family": "et-line",
               "active": true,
-              "link": "index.html#content3-v",
+              "link": "index.html#header1-m",
               "size": "",
               "newWindow": false
             }
@@ -1496,7 +1496,7 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html#content3-v",
+              "link": "index.html#header3-e",
               "size": 0,
               "newWindow": false
             }
@@ -1510,7 +1510,7 @@
               "name": "flag",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html#content3-v",
+              "link": "index.html#header1-k",
               "size": 0,
               "newWindow": false
             }
@@ -1524,7 +1524,7 @@
               "name": "magic-stick",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html#content3-v",
+              "link": "index.html#header1-19",
               "size": 0,
               "newWindow": false
             }
@@ -1545,8 +1545,8 @@
           "_name": "social2",
           "_anchor": "social2-1i",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2000.jpg",
@@ -1619,7 +1619,7 @@
               "class": "resp-img",
               "src": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
               "active": true,
-              "link": "index.html#header1-n",
+              "link": "index.html#header3-r",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
