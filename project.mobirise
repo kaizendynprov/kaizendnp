@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "https://kaizendynprov.github.io/kaizendnp/",
+    "name": "kaizendnp",
     "currentPage": "index.html",
     "theme": {
       "name": "spacem",
@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Kaizendynets.com Proveedores",
+        "title": "Proveedores",
         "meta_descr": "kaizendnp",
         "header_custom": "",
         "footer_custom": "",
@@ -1638,7 +1638,7 @@
           "mediaInst1": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1319.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1649,7 +1649,7 @@
           "mediaInst2": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-20-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1660,7 +1660,7 @@
           "mediaInst3": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333-800x533.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1671,7 +1671,7 @@
           "mediaInst4": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1682,7 +1682,7 @@
           "mediaInst5": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1333-4-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1693,7 +1693,7 @@
           "mediaInst6": {
             "image": {
               "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1624x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
               "active": true,
               "link": "",
               "alt": "",
