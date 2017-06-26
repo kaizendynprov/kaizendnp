@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "kaizendnprov",
+    "name": "https://kaizendynprov.github.io/kaizendnp/",
     "currentPage": "index.html",
     "theme": {
       "name": "spacem",
@@ -30,7 +30,7 @@
       "settings": {
         "main": true,
         "title": "Kaizendynets.com Proveedores",
-        "meta_descr": "Proveedores Kaizen Dyn. Net.",
+        "meta_descr": "kaizendnp",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -550,7 +550,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
-            "bgColor": "#757575",
+            "bgColor": "#222222",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -631,7 +631,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1328.jpg",
-            "bgColor": "#757575",
+            "bgColor": "#222222",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -712,7 +712,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#757575",
+            "bgColor": "#222222",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -793,7 +793,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#757575",
+            "bgColor": "#222222",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1348,7 +1348,7 @@
             "title": "MESSAGE",
             "action": "gerardom.martinezh@gmail.com",
             "alerts": {
-              "success": "Gracias por tu contacto, es un placer atenderte y pronto recibiras noticias nuestras!"
+              "success": "Nos pondremos en contacto!"
             },
             "fields": {
               "name": {
@@ -1458,8 +1458,8 @@
           "_name": "content3",
           "_anchor": "content3-v",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
@@ -1545,8 +1545,8 @@
           "_name": "social2",
           "_anchor": "social2-1i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2000.jpg",
