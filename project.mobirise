@@ -998,6 +998,13 @@
             "Theme"
           ],
           "_name": "content3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "content3-v",
           "_params": {
             "paddingTop": "1",
@@ -1043,7 +1050,7 @@
               "newWindow": false
             }
           },
-          "title2": "EL \"start up\" &nbsp;del 2017",
+          "title2": "INICIA LA start up del 2017",
           "text2": "Una nueva Visión emprendedora con un modelo de negocio prometedor que dentro de la industria del<br>comercio electrónico enlazará a proveedores y consumidores en una sinergia de prosperidad.<br>",
           "media3": {
             "iconFont": {

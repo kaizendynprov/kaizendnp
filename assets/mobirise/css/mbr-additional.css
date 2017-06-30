@@ -24,6 +24,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -737,6 +738,10 @@ a:hover,
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
   color: #ffffff;
+}
+#content3-v H4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 #social2-1i .mbr-section-title,
 #social2-1i .btn-social {
