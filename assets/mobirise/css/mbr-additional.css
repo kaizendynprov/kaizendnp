@@ -22,6 +22,8 @@
 
 
 
+
+
 /*TITLE*/
 .alert,
 h1,
@@ -572,6 +574,18 @@ a:hover,
 #header1-k I {
   font-size: 23px;
 }
+#header3-e EM {
+  font-size: 17px;
+}
+#header3-e H1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+  color: #abc709;
+}
+#header3-e P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
 #header1-m H1 {
   font-family: 'Open Sans', sans-serif;
   font-size: 48px;
@@ -579,6 +593,9 @@ a:hover,
 #header1-m P {
   font-family: 'Open Sans', sans-serif;
   font-size: 22px;
+}
+#header1-m B {
+  font-size: 20px;
 }
 #menu4-f .hide-buttons .nav-btn {
   display: none !important;
@@ -666,37 +683,6 @@ a:hover,
 #gallery1-q .mbr-gallery-item > div > span {
   color: #394052;
 }
-#title3-1d H1 {
-  font-family: 'Open Sans', sans-serif;
-  color: #abc709;
-}
-#accordion3-11 P {
-  color: #ffffff;
-}
-#accordion3-13 P {
-  color: #ffffff;
-}
-#accordion3-14 P {
-  color: #ffffff;
-}
-#accordion3-15 P {
-  color: #ffffff;
-}
-#accordion3-15 DIV {
-  color: #ffffff;
-}
-#header3-e EM {
-  font-size: 17px;
-}
-#header3-e H1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 46px;
-  color: #abc709;
-}
-#header3-e P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-}
 #header1-n H1 {
   font-size: 48px;
   font-family: 'Open Sans', sans-serif;
@@ -713,15 +699,9 @@ a:hover,
   text-align: left;
   color: #f7d40c;
 }
-#process1-s H4 {
-  color: #abc709;
+#header3-r P {
   font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
-}
-#process1-s P {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 23px;
+  font-size: 20px;
 }
 #header1-19 H1 {
   font-size: 48px;
@@ -730,15 +710,23 @@ a:hover,
 }
 #header1-19 P {
   color: #394052;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #title4-1a H1 {
   color: #394052;
+  font-family: 'Open Sans', sans-serif;
 }
 #content6-o SPAN {
   text-align: right;
 }
 #content6-o H1 {
   color: #757575;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+#content6-o P {
+  font-family: 'Open Sans', sans-serif;
 }
 #subscribe2-1e H1 {
   color: #abc709;
@@ -747,13 +735,16 @@ a:hover,
 }
 #social1-1h .mbr-section-title SPAN {
   font-family: 'Open Sans', sans-serif;
-  font-size: 46px;
+  font-size: 30px;
   color: #ffffff;
 }
 #social2-1i .mbr-section-title,
 #social2-1i .btn-social {
   color: #232323;
 }
+#social2-1i .mbr-section-title SPAN {
+  color: #394052;
+}
 #footer1-1g P {
-  color: #e5e5e5;
+  color: #ffffff;
 }
