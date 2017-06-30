@@ -23,7 +23,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/zen-128x112-1.png",
     "noImageResize": "",
-    "scrollAnimation": ""
+    "scrollAnimation": "true"
   },
   "pages": {
     "index.html": {
