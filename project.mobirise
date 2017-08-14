@@ -160,7 +160,7 @@
             }
           },
           "title": "¿YA ESTAS LISTO PARA SUBIRTE A LA RUEDA DE LA FORTUNA?",
-          "text": "<b>Internet se hace más grande cada día. Cada vez son más los usuarios conectados que invierten su tiempo<br>no sólo en la navegación online, sino en una serie de servicios que generan una gran cantidad de dinero,<br>pero sabes realmente ¿qué sucede cada 60 segundos en Internet? ¿Tú cuanto tiempo dejarás pasar antes<br>de detec tar una oportunidad como ésta? ¿Sabes cuántos millones de pesos genera el comercio del Retail?</b>",
+          "text": "<b>Internet se hace más grande cada día. Cada vez son más los usuarios conectados que invierten su tiempo<br>no sólo en la navegación online, sino en una serie de servicios que generan una gran cantidad de dinero,<br>pero sabes realmente ¿qué sucede cada 60 segundos en Internet? ¿Tú cuanto tiempo dejarás pasar antes<br>de detectar una oportunidad como ésta? ¿Sabes cuántos millones de pesos genera el comercio del Retail?</b>",
           "buttons": "<a data-app-btn=\"true\" href=\"index.html#header1-m\" class=\"btn btn-primary\" role=\"button\">Mas Informacion</a>"
         },
         {
@@ -602,73 +602,8 @@
             "showButtons": true
           },
           "title": "QUIERO SER UN PROVEEDOR KAIZENDYNETS",
-          "text": "En kaizendynets.com los tangibles beneficios inician velando por un Comercio Justo al eliminar los pagos por derechos de anaquel o los porcentajes extras por ventas concretas, convirtiendo a Kaizendynets en un medio que no requiere inversión en muestreos o degustaciones; en demostradoras o edecanes; en personal de pre venta, repartidores, acomodadores y supervisores; de los gastos en gasolina por el reparto de tienda en tienda así como evita el riego de trabajo.",
-          "buttons": "<a data-app-btn=\"true\" href=\"index.html#header3-r\" class=\"btn btn-secondary\" role=\"button\">POSICIONAr MI MARCA&nbsp;</a>"
-        },
-        {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H1": {
-              "font-size": "36px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "left",
-              "color": "#f7d40c"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "header3-r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "imageSize": "50",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#151515",
-            "inverse": false,
-            "showMedia": true,
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/nl-1598x1005.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Buscamos ALIADOS Comerciales comprometidos con la prosperidad Nacional",
-          "text": "<b>Hemos invertido tiempo y esfuerzo, durante más de un año y ocho meses en el desarrollo de las eficientes Aplicaciones Web de Kaizendynets con Frameworks de última generación, que soportará la interacción de más de 120 millones de usuarios que podrán adquirir tus productos en base a un Sistema de verdadera Sociedad Comercial</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"index.html#header1-19\" class=\"btn btn-primary\" role=\"button\">Socios Comerciales</a>"
+          "text": "En kaizendynets.com los tangibles beneficios inician velando por un Comercio Justo al eliminar los pagos por derechos de anaquel o los porcentajes extras por ventas concretas, convirtiendo a Kaizendynets en un medio que no requiere inversión en muestreos o degustaciones; en demostradoras o edecanes; en personal de pre venta, repartidores, acomodadores y supervisores; de los gastos en gasolina por el reparto de tienda en tienda así como evita el riesgo de trabajo.",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#header1-19\" class=\"btn btn-secondary\" role=\"button\">POSICIONAr MI MARCA&nbsp;</a>"
         },
         {
           "media": {
@@ -724,8 +659,8 @@
             "showSubtitle": true,
             "showButtons": true
           },
-          "title": "CONVIÉRTETE EN NUESTRO SOCIO COMERCIAL&nbsp;",
-          "text": "<b>Invitaremos a nuestros Socios Comerciales a que integren el valor real del producto en el precio final, y considerando los costos indirectos que hemos eliminado, que otorguen un descuento preferente para provocar la economía de escalas que les permita mejorar sus costos de manufactura y así comercialicemos sus productos a los mejores precios en Beneficio del volumen de venta que arroje importantes utilidades; todo lo que permite que nuestros Afiliados logren un mayor rendimiento de los ingresos que obtienen con el esfuerzo de su trabajo y así una vida de calidad.</b>",
+          "title": "Buscamos ALIADOS Comerciales comprometidos con la prosperidad Nacional&nbsp;",
+          "text": "<b>Hemos invertido tiempo y esfuerzo, durante más de un año y ocho meses en el desarrollo de las eficientes Aplicaciones Web de Kaizendynets con Frameworks de última generación, que soportará la interacción de más de 120 millones de usuarios que podrán adquirir tus productos en base a un Sistema de verdadera Sociedad Comercial</b><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"index.html#title4-1a\" class=\"btn btn-secondary\" role=\"button\">¿Que debo hacer?</a>"
         },
         {
@@ -888,7 +823,7 @@
           "text": "Lorem ipsum dolor sit amet, consec tetur adip iscing elit. Curabitur feugiat feugiat and brane in bibendum ",
           "form": {
             "title": "MESSAGE",
-            "action": "alianzascomerciales@kaizendynets.com",
+            "action": "gerardo.martinez@kaizendynets.com",
             "alerts": {
               "success": "Nos pondremos en contacto!"
             },
@@ -1109,7 +1044,7 @@
             "overlayColor": "#222"
           },
           "text": "<span>Siguenos!</span>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kaizendynets\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/kaizendynets\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Kaizendynets/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/kaizendynets/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kaizendynets\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Kaizendynets\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/107095563506159951782\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/kaizendynets/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "alias": "spacem/components",
